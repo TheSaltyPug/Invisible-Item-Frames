@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Your generic invisibile-item-frame datapack-- but made by me!",
+          "icon": {
+               "item": "minecraft:item_frame"
+          },
+          "show_toast": false,
+          "title": "Invisible Item Frames"
+     },
+     "parent": "global:tsp"
+}
